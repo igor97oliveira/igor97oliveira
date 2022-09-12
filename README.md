@@ -1,4 +1,4 @@
-# 👋 Olá, meu nome é Igor <h1>
+# 👋 Olá, meu nome é Igor
 Estou iniciando na área de desenvolvimento front-end e posteriormente back-end <br>
 Curso atualmente tecnologo em Análise e Desenvolvimento de Sistemas <br>
 Estudo através de cursos online também, relacionado a FullStack Javascript na OneBitCode e na Udemy <br>
