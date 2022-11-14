@@ -10,6 +10,7 @@ Estudo através de cursos online também, relacionado a FullStack Javascript na 
 <img align="center" width="50" height="50" alt ="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img align="center" width="50" height="50" alt ="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" width="50" height="50" alt ="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="center" width="50" height="50" alt ="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
  </div>    
           
 
